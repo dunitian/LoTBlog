@@ -1,2 +1,2 @@
 # LoTBlog
-go：https://github.com/dunitian/LoTCode/tree/master/LoTBlog
+已转移到：https://github.com/dunitian/LoTCode/tree/master/LoTBlog
